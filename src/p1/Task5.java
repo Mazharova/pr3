@@ -28,7 +28,7 @@ public class Task5 {
             System.out.println(arr1[i]);
         }
 
-        System.out.println("Отсортирванные массивы:");
+        System.out.println("Отсортированные массивы:");
         Arrays.sort(arr);
         Arrays.sort(arr1);
 
